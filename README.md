@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Panidhar G Udupa</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN | .NET | AI Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN | AI Enthusiast</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=panidhargudupa&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -9,9 +9,9 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 MCA Final Year Student
-* 🌱 Currently learning **Advanced MERN Stack & System Design**
-* 🤖 Interested in **AI / Backend Development / Scalable Systems**
+* 🎓 MCA Graduate & Software Developer
+* 🌱 Currently learning ** MERN Stack, System Design, AI Intigration**
+* 🤖 Interested in **AI / Backend Development / Cloud**
 * 🚀 Building real world Full Stack Projects
 * 📫 Reach me at → **[panidhargudupa1@gmail.com](mailto:panidhargudupa1@gmail.com)**
 
@@ -29,11 +29,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=panidhargudupa&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=panidhargudupa&theme=tokyonight" />
 </p>
 
@@ -57,12 +57,3 @@
 
 ---
 
-## 🚀 Featured Projects
-
-⭐ Lung Cancer Detection ML Project
-⭐ MERN Airbnb Clone
-⭐ Full Stack Resume Builder
-
----
-
-⭐ From **Panidhar G Udupa**
