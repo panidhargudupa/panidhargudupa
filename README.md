@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-* 💼 Currently working as a **Freelancer as Full Stack Developer @ BK's Solutions**
+* 💼 Currently working as a **[Freelancer] Full Stack Developer @ BK's Solutions**
 * 🎓 MCA Graduate
 * 🤖 Interested in **AI / Backend Development / Cloud**
 * 🚀 Building real-world Full Stack Projects
