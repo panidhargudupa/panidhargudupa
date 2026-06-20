@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 * 🎓 MCA Graduate & Software Developer
-* 🌱 Currently learning ** MERN Stack, AI Intigration**
+* 🌱 Currently learning **MERN Stack, AI Intigration**
 * 🤖 Interested in **AI / Backend Development / Cloud**
 * 🚀 Building real world Full Stack Projects
   
